@@ -3,4 +3,5 @@
 ## API's utilizadas
 
 - Alpha Vantage
+- Yahoo finances
 - 
