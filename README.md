@@ -5,3 +5,4 @@
 - Alpha Vantage
 - Yahoo finances
 - Labdo
+- Twelve
